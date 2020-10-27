@@ -1,3 +1,6 @@
+<!-- Any image aligned to the right. Beware the width -->
+<img width="100%" align="center" alt="Github" src="https://i.imgur.com/ZwVpgtq.png" />
+
 ### Hi there
 
 <!--
@@ -11,20 +14,6 @@
  "info": "I'm currently working with these languages and tools or at least had some experience with them"
 }
 ```
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="100%" align="center" alt="Github" src="https://i.imgur.com/ZwVpgtq.png" />
-
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
-
-**Languages and Tools:** 
-
 
 ## Tech Stack :computer:
 
