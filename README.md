@@ -100,7 +100,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <img alt="HitCount" src="http://hits.dwyl.com/rossiotti/rossiotti.svg" />
   <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=rossiotti.rossiotti" />
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/rossiotti/rossiotti.svg" />
 </p>
 
 
