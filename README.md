@@ -130,7 +130,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="10%" height="10%" align="center" alt="Github" src="https://i.imgur.com/kMkCDhl.png" />
+<img height="50%" align="center" alt="Github" src="https://i.imgur.com/kMkCDhl.png" />
 
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
