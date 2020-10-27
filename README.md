@@ -8,7 +8,7 @@
 
 ```json
 {
- "info": "I'm currently with these languages and tools or at least had some experience with them"
+ "info": "I'm currently  working with these languages and tools or at least had some experience with them"
 }
 ```
 
