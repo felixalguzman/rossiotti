@@ -1,5 +1,5 @@
 <!-- Any image aligned to the right. Beware the width -->
-<img width="100%" align="center" alt="Github" src="https://i.imgur.com/ZwVpgtq.png" />
+<img width="100%" align="center" alt="Github" src="https://imgur.com/EuHj2Sl" />
 
 ### Hi there
 
