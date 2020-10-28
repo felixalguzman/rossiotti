@@ -21,7 +21,7 @@
 - Website: <a href = "https://rossiotti.github.io/">rossiotti.github.io</a>
 <br>
 
-## Tech Stack :computer:
+## Tech Stack <img src="https://i.imgur.com/UQ1WHcO.gif" width="35">
 
 ```json
 {
