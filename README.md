@@ -1,13 +1,13 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="100%" align="center" alt="Github" src="https://i.imgur.com/sEvqQA0.png" />
 
-### Hi there
+### Hi there <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://i.imgur.com/mRo2M1g.gif" width="50"> A little more about me...  
 
 ```json
 {
