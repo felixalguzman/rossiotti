@@ -21,7 +21,7 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
+<span><b><center>Javascript</center></b></span> 
 <img height=60px src="https://i.imgur.com/sq57VC7.png"> 
 </td>
 
