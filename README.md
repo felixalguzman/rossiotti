@@ -52,7 +52,7 @@
 <tr>
 <td align="center" >
 <span><b><center>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</center></b></span>
- <img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+ <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png"> 
 </td>
 
 <td align="center" >
@@ -74,7 +74,7 @@
 
 <td align="center" >
 <span><b><center>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</center></b></span>
- <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+ <img height=65px src="https://www.solucionex.com/sites/default/files/posts/imagen/vscode-800x450.png"> 
 </td>
 
 
