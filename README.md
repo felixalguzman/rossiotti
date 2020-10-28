@@ -73,7 +73,7 @@
 </td>
 
 <td align="center" width="20%">
-<img height=65px src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png"> 
+<img height=65px src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"> 
 </td>
 </tr>
 
