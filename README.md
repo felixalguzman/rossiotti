@@ -21,71 +21,59 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Javascript</center></b></span> 
 <img height=60px src="https://i.imgur.com/sq57VC7.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Spring Boot</center></b></span> 
 <img height=60px src="https://i.imgur.com/5WVqcDf.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>.NET</center></b></span> 
 <img height=60px src="https://i.imgur.com/6sNDPlw.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
 <img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
 <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Power BI</center></b></span> 
 <img height=65px src="https://i.imgur.com/unGyWpD.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>WordPress</center></b></span> 
 <img height=65px src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
 </td>
 
 
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
 <img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Java</center></b></span> 
 <img height=65px src="https://i.imgur.com/BvNdxGB.jpg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>SQL Reporting Services</center></b></span> 
 <img height=65px src="https://i.imgur.com/5YE1eZv.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+<img height=65px src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png"> 
 </td>
 </tr>
 
