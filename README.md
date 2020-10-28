@@ -73,7 +73,7 @@
 </td>
 
 <td align="center" width="20%">
-<img height=65px src="https://i.imgur.com/d2SFaqK.jpg> 
+<img height=65px src="https://i.imgur.com/d2SFaqK.jpg"> 
 </td>
 </tr>
 
