@@ -93,7 +93,6 @@
 </table>
 
 ### ✔️ I'm currently learning
-- JavaScript
 - Flutter
 - AngularJS
 
