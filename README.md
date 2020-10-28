@@ -17,7 +17,7 @@
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/ronald-mariotti-503284145">ronald-mariotti</a>
-- Gmail: <a href = "r.mariotti19@gmail.com">R.Mariotti</a>
+- Gmail: <a href = "mailto:r.mariotti19@gmail.com">R.Mariotti</a>
 - Website: <a href = "https://rossiotti.github.io/">rossiotti.github.io</a>
 <br>
 
