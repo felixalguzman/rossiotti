@@ -26,13 +26,13 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<span><b><center>Spring Boot</center></b></span> 
+<img height=60px src="https://i.imgur.com/5WVqcDf.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<span><b><center>.NET</center></b></span> 
+<img height=60px src="https://i.imgur.com/6sNDPlw.png"> 
 </td>
 </tr>
 
@@ -48,15 +48,15 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+<span><b><center>Power BI</center></b></span> 
+<img height=65px src="https://i.imgur.com/unGyWpD.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
+<span><b><center>WordPress</center></b></span> 
+<img height=65px src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -74,13 +74,13 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+<span><b><center>Java</center></b></span> 
+<img height=65px src="https://i.imgur.com/BvNdxGB.jpg"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+<span><b><center>SQL Reporting Services</center></b></span> 
+<img height=65px src="https://i.imgur.com/5YE1eZv.png"> 
 </td>
 
 <td align="center" width="20%">
