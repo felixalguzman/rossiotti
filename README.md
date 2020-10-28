@@ -18,62 +18,74 @@
 
 <br>
 <table>
-<tbody>
+<tbody >
  <tr>
-<td align="center" width="100%">
+<td align="center" >
+ <span><b><center>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</center></b></span>
 <img height=60px src="https://i.imgur.com/sq57VC7.png"> 
 </td>
 
-<td align="center" width="100%">
-<img height=60px src="https://i.imgur.com/5WVqcDf.png"> 
+<td align="center" >
+<span><b><center>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</center></b></span>
+ <img height=60px src="https://i.imgur.com/5WVqcDf.png"> 
 </td>
 
-<td align="center" width="100%">
-<img height=60px src="https://i.imgur.com/6sNDPlw.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="100%">
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
-</td>
-
-<td align="center" width="100%">
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
-
-<td align="center" width="100%">
-<img height=65px src="https://i.imgur.com/unGyWpD.png"> 
+<td align="center" >
+<span><b><center>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</center></b></span>
+ <img height=60px src="https://i.imgur.com/6sNDPlw.png"> 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="100%">
-<img height=65px src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png"> 
+<td align="center" >
+<span><b><center>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</center></b></span>
+ <img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
 </td>
 
-<td align="center" width="100%">
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+<td align="center" >
+<span><b><center>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</center></b></span>
+ <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
 
-
-
-<td align="center" width="100%">
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+<td align="center" >
+<span><b><center>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</center></b></span>
+ <img height=65px src="https://i.imgur.com/unGyWpD.png"> 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<img height=65px src="https://i.imgur.com/BvNdxGB.jpg"> 
+<td align="center" >
+<span><b><center>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</center></b></span>
+ <img height=65px src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png"> 
 </td>
 
-<td align="center" width="20%">
-<img height=65px src="https://i.imgur.com/5YE1eZv.png"> 
+<td align="center" >
+<span><b><center>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</center></b></span>
+ <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
 </td>
 
-<td align="center" width="20%">
-<img height=65px src="https://i.imgur.com/d2SFaqK.jpg"> 
+
+
+<td align="center" >
+<span><b><center>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</center></b></span>
+ <img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" >
+<span><b><center>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</center></b></span>
+ <img height=65px src="https://i.imgur.com/BvNdxGB.jpg"> 
+</td>
+
+<td align="center" >
+<span><b><center>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</center></b></span>
+ <img height=65px src="https://i.imgur.com/5YE1eZv.png"> 
+</td>
+
+<td align="center" >
+<span><b><center>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</center></b></span>
+ <img height=65px src="https://i.imgur.com/d2SFaqK.jpg"> 
 </td>
 </tr>
 
