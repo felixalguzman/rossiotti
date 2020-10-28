@@ -6,7 +6,21 @@
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### <img src="https://i.imgur.com/Sz4Qi2v.gif" width="60">  Hi there... 
+## <img src="https://i.imgur.com/Sz4Qi2v.gif" width="60">  Hi there... 
+
+### ✔️ I'm currently learning
+- Flutter
+- AngularJS
+
+### 💻 I'm working on
+- Building small projects for a better portfolio
+
+### ☕ Get in touch
+- LinkedIn: <a href = "https://www.linkedin.com/in/ronald-mariotti-503284145">ronald-mariotti</a>
+- Gmail: <a href = "r.mariotti19@gmail.com">R.Mariotti</a>
+- Website: <a href = "https://rossiotti.github.io/">rossiotti.github.io</a>
+<br>
+<br>
 
 ```json
 {
@@ -92,19 +106,6 @@
 </tbody>
 </table>
 
-### ✔️ I'm currently learning
-- Flutter
-- AngularJS
-
-### 💻 I'm working on
-- Building small projects for a better portfolio
-
-### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/ronald-mariotti-503284145">ronald-mariotti</a>
-- Gmail: <a href = "r.mariotti19@gmail.com">R.Mariotti</a>
-- Website: <a href = "https://rossiotti.github.io/">rossiotti.github.io</a>
-<br>
-<br>
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
