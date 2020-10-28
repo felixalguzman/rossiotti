@@ -20,6 +20,7 @@
 - Gmail: <a href = "r.mariotti19@gmail.com">R.Mariotti</a>
 - Website: <a href = "https://rossiotti.github.io/">rossiotti.github.io</a>
 
+
 ## Tech Stack :computer:
 
 ```json
