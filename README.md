@@ -6,8 +6,7 @@
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-###                                                         A little more about me...  
-### <img src="https://i.imgur.com/EmB2il9.gif" width="60"> 
+### <img src="https://i.imgur.com/EmB2il9.gif" width="60" height="60"> A little more about me... 
 
 ```json
 {
